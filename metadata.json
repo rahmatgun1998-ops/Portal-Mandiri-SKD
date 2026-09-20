@@ -1,0 +1,6 @@
+{
+  "name": "Portal Mandiri SKD CPNS",
+  "description": "Portal Belajar Pribadi & Simulasi CAT Tryout SKD CPNS dengan Study Tracker, Evaluasi Skor, dan Integrasi Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
